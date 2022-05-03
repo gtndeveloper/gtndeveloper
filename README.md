@@ -1,8 +1,10 @@
-### 👋 Hi , I'm Murilo Mendes
+<div>  <a href="https://github.com/gtndeveloper">
+</div>
+ <br>
+ ### 👋 Hi , I'm Murilo Mendes
 
 - 💻 Today I'm studying frontend
 - 😄 #BuildTheFuture
-
 
 <div align="center">
   <!-- <a href="https://github.com/gtndeveloper"> -->
@@ -14,9 +16,11 @@
   <img align="center" alt="SrHenry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SrHenry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SrHenry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="SrHenry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="SrHenry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>
-<div>
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+
+</div>
+ 
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
