@@ -1,16 +1,4 @@
-<div>  <a href="https://github.com/gtndeveloper">
-</div>
- <br>
- ### 👋 Hi , I'm Murilo Mendes
 
-- 💻 Today I'm studying frontend
-- 😄 #BuildTheFuture
-
-<div align="center">
-  <!-- <a href="https://github.com/gtndeveloper"> -->
-</div>
-
-## My Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SrHenry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
