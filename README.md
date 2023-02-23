@@ -1,11 +1,6 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Murilo Mendes</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gtndeveloper&color=green" alt="Visualizacões no perfil" /> </p>
-
 - 🔥 Desenvolvedor Front-end.
-
-- 👨‍💻 Alguns os meus projetos estão disponíveis por enquanto aqui!
-
 <br><br>
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
