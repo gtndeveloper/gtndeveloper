@@ -1,7 +1,7 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Murilo Mendes</h1>
 
 - 🔥 Desenvolvedor Front-end.
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
 
