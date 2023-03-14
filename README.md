@@ -13,5 +13,5 @@
 
 
 <div align=right>
-  ![](https://img.shields.io/static/v1?label=Discord&message=gtn%233696&color=5865F2&logo=discord&logoColor=fff)
+  ![AA](https://img.shields.io/static/v1?label=Discord&message=gtn%233696&color=5865F2&logo=discord&logoColor=fff)
 </div>
