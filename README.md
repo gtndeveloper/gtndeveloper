@@ -10,3 +10,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ![snake gif](https://github.com/gtndeveloper/gtndeveloper/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align=right>
+  ![](https://img.shields.io/static/v1?label=Discord&message=gtn%233696&color=5865F2&logo=discord&logoColor=fff)
+</div>
