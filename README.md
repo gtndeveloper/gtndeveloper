@@ -1,8 +1,3 @@
-<h1>Olá, Eu sou Murilo Mendes</h1>
-
-- 🔥 Desenvolvedor Front-end.
-<br>
-
 ## 🛠 &nbsp;Tecnologias e Ferramentas
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
